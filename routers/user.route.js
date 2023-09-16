@@ -5,7 +5,7 @@ const {userController} = require("../controller/user.controller")
 
 const router = Router()
 
-
+//тест
 router.post('/signIn', userController.createUser) //регистрация
 router.post('/signUp', userController.login) //вход в акк
 
