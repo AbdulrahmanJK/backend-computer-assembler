@@ -7,7 +7,7 @@ const { validationResult } = require("express-validator");
 module.exports.userController = {
   // Регистрация пользователя
   registerUser: async (req, res) => {
-    const { email, username, password, avatarURL } = req.body;
+    const { email, username, password, avatarURL, role } = req.body;
     const candidate = await User.findOne({ email });
     const errors = validationResult(req);
     if (!errors.isEmpty()) {
@@ -24,6 +24,7 @@ module.exports.userController = {
       username: username,
       password: hash,
       avatarURL: avatarURL,
+      role: role
     });
 
     res.json(user);
