@@ -7,10 +7,10 @@ const mongoose = require('mongoose');
 const cors = require('cors')
 const app = express()
 const port = 4000
-app.use(require('./routers/user.route'))
 app.use('/uploads', express.static('uploads'));
 app.use(express.json())
 app.use(cors())
+app.use(require('./routers/user.route'))
 
 
 

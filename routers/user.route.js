@@ -1,16 +1,13 @@
 
 // const {registerValidator} = require("../validation/validation") //потом подключим (Папка готова)
-const {Router} = require("express")
-const {userController} = require("../controllers/user.controller")
-const {auth, isAdmin} = require("../middlewares/checkAuth")
-const { postValidator } = require("../validator/validation");
-const router = Router()
+const { Router } = require("express");
+const { userController } = require("../controllers/user.controller");
+const  {auth}  = require('../middlewares/checkAuth.js')
+const {registerValidator } = require('../validation/validation')
+const router = Router();
 
-//тест
-router.post('/signIn', postValidator,  userController.registerUser) //регистрация
-router.post('/signUp', postValidator, userController.login) //вход в акк
-router.patch('/signPatch', postValidator, userController.patchUser) //изменение
-router.get('/signGet', userController.getMe) // показ акка
-
-
-module.exports = router
+router.post("/auth",  userController.registerUser); // Роут регистрации пользователя
+router.post("/login", registerValidator,   userController.login); // Вход в учетную запись
+router.get("/getMe", auth,   userController.getMe)
+router.patch("/patchUser", auth, userController.patchUser)
+module.exports = router;
