@@ -2,6 +2,7 @@
 // const {registerValidator} = require("../validation/validation") //потом подключим (Папка готова)
 const {Router} = require("express")
 const {userController} = require("../controllers/user.controller")
+const {auth, isAdmin} = require("../middlewares/checkAuth")
 const { postValidator } = require("../validator/validation");
 const router = Router()
 
