@@ -11,6 +11,8 @@ app.use('/uploads', express.static('uploads'));
 app.use(express.json())
 app.use(cors())
 app.use(require('./routers/user.route'))
+app.use(require("./routers/accessories.route"))
+app.use(require("./routers/category.route"))
 
 
 
