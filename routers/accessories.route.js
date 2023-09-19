@@ -10,4 +10,4 @@ router.delete("/accessories/:id", accessoriesControllers.deleteAccessories)
 router.get("/accessories/:id", accessoriesControllers.getAllCategories)
 router.patch("/accessories/:id", accessoriesControllers.patchAccessories)
 
-module.exports = router
+module.exports = router;
