@@ -50,6 +50,10 @@ getOneAccessory: async (req,res)=>{
     } catch (error) {
         res.json(error)
     }
-}
+},
+getAllCategories: async (req, res) => {
+    const accessories = await Accessories.find({category: req.params.id})
+    res.json(accessories)
+},
 
 }
