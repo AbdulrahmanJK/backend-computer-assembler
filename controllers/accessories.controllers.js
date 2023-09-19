@@ -55,5 +55,5 @@ getAllCategories: async (req, res) => {
     const accessories = await Accessories.find({category: req.params.id})
     res.json(accessories)
 },
-
+ 
 }
