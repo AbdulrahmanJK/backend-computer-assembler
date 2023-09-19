@@ -13,6 +13,7 @@ app.use(cors())
 app.use(require('./routers/user.route'))
 app.use(require("./routers/accessories.route"))
 app.use(require("./routers/category.route"))
+app.use(require("./routers/assembling.route"))
 
 
 
