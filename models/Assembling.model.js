@@ -1,8 +1,10 @@
 const mongoose = require("mongoose")
 const assemblingSchema = new mongoose.Schema({
+    title:String,
     cpu:{
         type: mongoose.SchemaTypes.ObjectId,
-        ref: "Accessories"
+        ref: "Accessories",
+
     },
     gpu:{
         type: mongoose.SchemaTypes.ObjectId,

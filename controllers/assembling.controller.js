@@ -41,7 +41,8 @@ getAssembling: async (req,res)=>{
 // Просмотр одного продукта
 getOneAssembling: async (req,res)=>{
     try {
-        const data = await Assembling.findById(req.params.id)
+        const data = await Assembling.findById(req.params.id).populate("accessories")
+        res.json(data)
         res.json(data)
     } catch (error) {
         res.json(error)
