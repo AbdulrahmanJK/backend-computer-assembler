@@ -9,6 +9,7 @@ createAccessories: async(req,res)=>{
             title: req.body.title,
             price: req.body.price,
             attributes: req.body.attributes,
+            socket: req.body.socket,
             category: req.body.category
         })
         return res.json(data)

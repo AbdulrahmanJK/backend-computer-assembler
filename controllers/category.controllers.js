@@ -5,7 +5,8 @@ module.exports.categoryControllers = {
 createCategory: async(req,res)=>{
     try {
         const data = await Category.create({
-          title: req.body.title
+          title: req.body.title,
+          image: req.body.image
         })
         return res.json(data)
     } catch (error) {

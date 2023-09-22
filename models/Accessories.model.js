@@ -4,6 +4,8 @@ const accessoriesSchema = new mongoose.Schema({
     title: String,
     price: Number,
     attributes: String,
+    socket: String,
+    scetchImg: String,
     category:{
         type: mongoose.SchemaTypes.ObjectId,
         ref: "Category"
