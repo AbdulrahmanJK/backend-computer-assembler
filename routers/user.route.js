@@ -9,5 +9,5 @@ const router = Router();
 router.post("/auth",  userController.registerUser); // Роут регистрации пользователя
 router.post("/login", registerValidator,   userController.login); // Вход в учетную запись
 router.get("/getMe", auth,  userController.getMe)
-router.patch("/patchUser", auth, userController.patchUser)
+router.patch("/patchUser/:id",  userController.patchUser)
 module.exports = router;
