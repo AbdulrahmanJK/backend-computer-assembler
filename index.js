@@ -14,6 +14,7 @@ app.use(require('./routers/user.route'))
 app.use(require("./routers/accessories.route"))
 app.use(require("./routers/category.route"))
 app.use(require("./routers/assembling.route"))
+app.use(require("./routers/img.route"))
 
 
 

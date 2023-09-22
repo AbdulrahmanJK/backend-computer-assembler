@@ -52,24 +52,34 @@ module.exports.userController = {
   },
   getMe: async (req, res) => {
     try {
-      const userId = req.user.id;
-      const currentUser = await User.findById(userId);
-
-      if (!currentUser) {
-        return res
-          .status(404)
-          .json({ success: false, error: "Пользователь не найден" });
+        const userId = req.user.id;
+        const currentUser = await User.findById(userId);
+  
+        if (!currentUser) {
+          return res
+            .status(404)
+            .json({ success: false, error: "Пользователь не найден" });
+        }
+        
+        // Добавляем email и username в объект с информацией о пользователе
+        const userData = {
+          _id: currentUser._id,
+          username: currentUser.username,
+          email: currentUser.email,
+          avatarURL: currentUser.avatarURL
+          // Другие поля пользователя, если они есть
+        };
+  
+        res.json({ success: true, user: userData });
+      } catch (error) {
+        console.error(error);
+        res
+          .status(500)
+          .json({
+            success: false,
+            error: "Произошла ошибка при получении информации о пользователе",
+          });
       }
-      res.json({ success: true, user: currentUser });
-    } catch (error) {
-      console.error(error);
-      res
-        .status(500)
-        .json({
-          success: false,
-          error: "Произошла ошибка при получении информации о пользователе",
-        });
-    }
   },
   patchUser: async (req, res) => {
     try {
@@ -79,16 +89,16 @@ module.exports.userController = {
       if (!findUser) {
         return res.status(404).json({ error: "Пользователь не найден" });
       }
-
+  
       if (username) {
         findUser.username = username;
       }
       if (avatarURL) {
         findUser.avatarURL = avatarURL;
       }
-
+  
       await findUser.save();
-      res.json({ success: true, user: existingUser });
+      res.json({ success: true, user: findUser }); // Заменено existingUser на findUser
     } catch (error) {
       console.error(error);
       res.status(500).json({
@@ -96,5 +106,5 @@ module.exports.userController = {
         error: "Произошла ошибка при обновлении данных пользователя",
       });
     }
-  },
-};
+  },  
+  }
