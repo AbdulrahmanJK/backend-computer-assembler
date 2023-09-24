@@ -60,7 +60,6 @@ module.exports.assemblingControllers = {
     try {
       const data = await Assembling.findById(req.params.id);
       res.json(data);
-      res.json(data);
     } catch (error) {
       res.json(error);
     }
