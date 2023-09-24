@@ -23,7 +23,7 @@ app.use((req, res, next) => {
   res.setHeader("Access-Control-Allow-Methods", "GET, POST, PUT, DELETE");
   next();
 });
-
+app.use('/uploads', express.static('uploads'));
 app.use(require('./routers/user.route'))
 app.use(require("./routers/accessories.route"))
 app.use(require("./routers/category.route"))

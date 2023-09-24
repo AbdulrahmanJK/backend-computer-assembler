@@ -1,0 +1,271 @@
+<svg width="5243" height="5395" xmlns="http://www.w3.org/2000/svg">
+ <style type="text/css">.st0{fill:#BFBFBF;}
+	.st1{fill:#8B8B94;}
+	.st2{fill:#F2F2A7;}
+	.st3{display:none;fill:#808080;}
+	.st4{display:none;fill:#BFBFBF;}
+	.st5{display:none;fill:#EFF2F2;}
+	.st6{display:none;}
+	.st7{display:none;fill:#AEBFBF;}
+	.st8{display:none;fill:#FFFFFF;}</style>
+
+ <g>
+  <title>background</title>
+  <rect fill="none" id="canvas_background" height="5397" width="5245" y="-1" x="-1"/>
+ </g>
+ <g>
+  <title>Layer 1</title>
+  <g stroke="null" id="Слой_3">
+   <path stroke="null" id="svg_1" d="m5288.885948,898.585311l0,-894.084602l-2926.473307,0l0,0l-2454.32412,0l0,894.084602c163.995505,44.0796 162.645321,248.734885 0,304.596129l19.941189,4206.554808l2532.63483,0l0,0l2805.060549,0l23.368581,-4206.554808c-190.064455,-55.658112 -191.933942,-260.313397 -0.207721,-304.596129z" class="st0"/>
+   <path stroke="null" id="svg_2" d="m4872.302052,1516.105972l3.219671,-721.727273l0,-132.949761c0,0 -61.485332,-142.192258 -169.500104,-185.45933l-1798.54982,0l-620.046337,0l-1798.54982,0c-108.014772,43.368639 -169.500104,185.45933 -169.500104,185.45933l0,132.949761l3.219671,721.727273c-158.698627,89.682688 -184.871437,201.100479 -184.871437,201.100479l0,1990.691606l181.859487,160.880383l0,1071.012397c3.219671,105.120705 197.23082,163.216398 197.23082,163.216398l353.021357,0c55.980733,60.431709 164.514807,92.729665 164.514807,92.729665l1216.204792,0c183.313532,-170.732275 203.981743,-193.8893 203.981743,-193.8893l899.638421,0c27.522995,26.00087 62.835517,59.212919 108.222493,101.159635l1216.204792,0c0,0 194.011149,-58.095694 197.23082,-163.216398l0,-1071.012397l181.859487,-160.880383l0,-1990.691606c-0.934743,0 -27.107553,-111.41779 -185.390739,-201.100479z" class="st1"/>
+  </g>
+  <g id="Слой_4">
+   <ellipse id="svg_3" ry="79.6" rx="81.5" cy="1374.7" cx="1715.3" class="st2"/>
+   <ellipse id="svg_4" ry="62.4" rx="80.3" cy="6359.9" cx="6575.4" class="st2"/>
+   <ellipse id="svg_5" ry="47.8" rx="49" cy="1346.2" cx="6533" class="st2"/>
+   <polygon id="svg_6" points="1591.1,6168.1 1592.5,6537.9 2021.7,6537.9  " class="st2"/>
+   <ellipse id="svg_7" ry="27.8" rx="28.4" cy="1780.1" cx="1673.8" class="st2"/>
+   <ellipse id="svg_8" ry="27.8" rx="28.4" cy="1822.8" cx="1740.4" class="st2"/>
+   <ellipse id="svg_9" ry="27.8" rx="28.4" cy="1869" cx="1669" class="st2"/>
+   <ellipse id="svg_10" ry="27.8" rx="28.4" cy="1911.6" cx="1735.6" class="st2"/>
+   <ellipse id="svg_11" ry="36" rx="37" cy="1312.6" cx="4511.4" class="st2"/>
+   <ellipse id="svg_12" ry="36" rx="37" cy="1312.4" cx="4420.4" class="st2"/>
+   <ellipse id="svg_13" ry="36" rx="37" cy="1312.4" cx="4329.7" class="st2"/>
+   <ellipse id="svg_14" ry="36" rx="37" cy="1312.4" cx="4238.6" class="st2"/>
+   <ellipse id="svg_15" ry="36" rx="37" cy="1312.1" cx="4147.6" class="st2"/>
+   <ellipse id="svg_16" ry="36" rx="37" cy="1312.1" cx="4056.5" class="st2"/>
+   <ellipse id="svg_17" ry="36" rx="37" cy="1312" cx="3965.5" class="st2"/>
+   <ellipse id="svg_18" ry="36" rx="37" cy="1312" cx="3874.4" class="st2"/>
+   <ellipse id="svg_19" ry="36" rx="37" cy="1311.7" cx="3783.4" class="st2"/>
+   <ellipse id="svg_20" ry="36" rx="37" cy="1311.7" cx="3692.7" class="st2"/>
+   <ellipse id="svg_21" ry="36" rx="37" cy="1311.7" cx="3601.6" class="st2"/>
+   <ellipse id="svg_22" ry="36" rx="37" cy="1311.5" cx="3510.6" class="st2"/>
+   <ellipse id="svg_23" ry="36" rx="37" cy="1311.5" cx="3419.5" class="st2"/>
+   <ellipse id="svg_24" ry="36" rx="37" cy="1311.2" cx="3328.5" class="st2"/>
+   <ellipse id="svg_25" ry="36" rx="37" cy="1311.2" cx="3237.4" class="st2"/>
+   <ellipse id="svg_26" ry="36" rx="37" cy="1311.1" cx="3146.4" class="st2"/>
+   <ellipse id="svg_27" ry="36" rx="37" cy="1311.1" cx="3055.7" class="st2"/>
+   <ellipse id="svg_28" ry="36" rx="37" cy="1311.1" cx="2964.6" class="st2"/>
+   <ellipse id="svg_29" ry="36" rx="37" cy="1310.8" cx="2873.6" class="st2"/>
+   <ellipse id="svg_30" ry="36" rx="37" cy="1310.8" cx="2782.5" class="st2"/>
+   <ellipse id="svg_31" ry="36" rx="37" cy="1310.6" cx="2691.5" class="st2"/>
+   <ellipse id="svg_32" ry="36" rx="37" cy="1310.6" cx="2600.4" class="st2"/>
+   <ellipse id="svg_33" ry="36" rx="37" cy="1310.6" cx="2509.4" class="st2"/>
+   <ellipse id="svg_34" ry="36" rx="37" cy="1310.3" cx="2418.6" class="st2"/>
+   <ellipse id="svg_35" ry="36" rx="37" cy="1310.3" cx="2327.6" class="st2"/>
+   <ellipse id="svg_36" ry="36" rx="37" cy="1310.2" cx="2236.5" class="st2"/>
+   <ellipse id="svg_37" ry="36" rx="37" cy="1418.5" cx="4575.9" class="st2"/>
+   <ellipse id="svg_38" ry="36" rx="37" cy="1418.5" cx="4484.9" class="st2"/>
+   <ellipse id="svg_39" ry="36" rx="37" cy="1418.3" cx="4393.8" class="st2"/>
+   <ellipse id="svg_40" ry="36" rx="37" cy="1418.3" cx="4302.8" class="st2"/>
+   <ellipse id="svg_41" ry="36" rx="37" cy="1418.3" cx="4211.7" class="st2"/>
+   <ellipse id="svg_42" ry="36" rx="37" cy="1418" cx="4120.7" class="st2"/>
+   <ellipse id="svg_43" ry="36" rx="37" cy="1418" cx="4030" class="st2"/>
+   <ellipse id="svg_44" ry="36" rx="37" cy="1417.9" cx="3938.9" class="st2"/>
+   <ellipse id="svg_45" ry="36" rx="37" cy="1417.9" cx="3847.9" class="st2"/>
+   <ellipse id="svg_46" ry="36" rx="37" cy="1417.7" cx="3756.8" class="st2"/>
+   <ellipse id="svg_47" ry="36" rx="37" cy="1417.7" cx="3665.8" class="st2"/>
+   <ellipse id="svg_48" ry="36" rx="37" cy="1417.7" cx="3574.7" class="st2"/>
+   <ellipse id="svg_49" ry="36" rx="37" cy="1417.4" cx="3483.7" class="st2"/>
+   <ellipse id="svg_50" ry="36" rx="37" cy="1417.4" cx="3393" class="st2"/>
+   <ellipse id="svg_51" ry="36" rx="37" cy="1417.2" cx="3301.9" class="st2"/>
+   <ellipse id="svg_52" ry="36" rx="37" cy="1417.2" cx="3210.9" class="st2"/>
+   <ellipse id="svg_53" ry="36" rx="37" cy="1417.2" cx="3119.8" class="st2"/>
+   <ellipse id="svg_54" ry="36" rx="37" cy="1416.9" cx="3028.8" class="st2"/>
+   <ellipse id="svg_55" ry="36" rx="37" cy="1416.9" cx="2937.7" class="st2"/>
+   <ellipse id="svg_56" ry="36" rx="37" cy="1416.8" cx="2846.7" class="st2"/>
+   <ellipse id="svg_57" ry="36" rx="37" cy="1416.8" cx="2755.6" class="st2"/>
+   <ellipse id="svg_58" ry="36" rx="37" cy="1416.5" cx="2664.9" class="st2"/>
+   <ellipse id="svg_59" ry="36" rx="37" cy="1416.5" cx="2573.9" class="st2"/>
+   <ellipse id="svg_60" ry="36" rx="37" cy="1416.5" cx="2482.8" class="st2"/>
+   <ellipse id="svg_61" ry="36" rx="37" cy="1416.3" cx="2391.8" class="st2"/>
+   <ellipse id="svg_62" ry="36" rx="37" cy="1416.3" cx="2300.7" class="st2"/>
+   <ellipse id="svg_63" ry="36" rx="37" cy="1528.4" cx="4675.6" class="st2"/>
+   <ellipse id="svg_64" ry="36" rx="37" cy="1528.4" cx="4584.5" class="st2"/>
+   <ellipse id="svg_65" ry="36" rx="37" cy="1528.4" cx="4493.5" class="st2"/>
+   <ellipse id="svg_66" ry="36" rx="37" cy="1528.3" cx="4402.4" class="st2"/>
+   <ellipse id="svg_67" ry="36" rx="37" cy="1528.3" cx="4311.4" class="st2"/>
+   <ellipse id="svg_68" ry="36" rx="37" cy="1528" cx="4220.5" class="st2"/>
+   <ellipse id="svg_69" ry="36" rx="37" cy="1528" cx="4129.6" class="st2"/>
+   <ellipse id="svg_70" ry="36" rx="37" cy="1527.8" cx="4038.5" class="st2"/>
+   <ellipse id="svg_71" ry="36" rx="37" cy="1527.8" cx="3947.5" class="st2"/>
+   <ellipse id="svg_72" ry="36" rx="37" cy="1527.8" cx="3856.4" class="st2"/>
+   <ellipse id="svg_73" ry="36" rx="37" cy="1527.5" cx="3765.4" class="st2"/>
+   <ellipse id="svg_74" ry="36" rx="37" cy="1527.5" cx="3674.5" class="st2"/>
+   <ellipse id="svg_75" ry="36" rx="37" cy="1527.4" cx="3583.5" class="st2"/>
+   <ellipse id="svg_76" ry="36" rx="37" cy="1527.4" cx="3492.6" class="st2"/>
+   <ellipse id="svg_77" ry="36" rx="37" cy="1527.1" cx="3401.5" class="st2"/>
+   <ellipse id="svg_78" ry="36" rx="37" cy="1527.1" cx="3310.5" class="st2"/>
+   <ellipse id="svg_79" ry="36" rx="37" cy="1527.1" cx="3219.4" class="st2"/>
+   <ellipse id="svg_80" ry="36" rx="37" cy="1526.9" cx="3128.4" class="st2"/>
+   <ellipse id="svg_81" ry="36" rx="37" cy="1526.9" cx="3037.5" class="st2"/>
+   <ellipse id="svg_82" ry="36" rx="37" cy="1526.6" cx="2946.5" class="st2"/>
+   <ellipse id="svg_83" ry="36" rx="37" cy="1526.6" cx="2855.4" class="st2"/>
+   <ellipse id="svg_84" ry="36" rx="37" cy="1526.6" cx="2764.5" class="st2"/>
+   <ellipse id="svg_85" ry="36" rx="37" cy="1526.5" cx="2673.5" class="st2"/>
+   <ellipse id="svg_86" ry="36" rx="37" cy="1526.5" cx="2582.4" class="st2"/>
+   <ellipse id="svg_87" ry="36" rx="37" cy="1526.1" cx="2491.5" class="st2"/>
+   <ellipse id="svg_88" ry="36" rx="37" cy="1526.1" cx="2400.5" class="st2"/>
+  </g>
+  <path id="svg_89" d="m3806.3,4152.1l0,-14.9c3.8,-1.6 7,-3.7 8.5,-7.4l89.4,-0.8c0.1,2.6 1.6,5.1 4,7.6l4,0l0,5.6l19.4,-0.1l0,-5.6l3,0c3.1,-1.5 5.1,-3.8 5,-7.5l73,0l0,23.1l71.7,0l0,-23.1l249.4,0l0,23.1l-2.8,0l0,15.1l2.8,0l0,16.6l-4.7,0l0,9.2l4.5,0l0,40.6l-527.2,0l0,-38.4l0,-43.1l0,0z" class="st3"/>
+  <path id="svg_90" d="m3793.8,4195.5l12.5,0.3l0,-24.8c0,0 -2.4,3.4 -4.8,1.7c-2.4,-1.7 -3,-3.6 -3,-3.6l-0.1,-6.8c0.7,-2.2 1.6,-3.8 3.2,-4.2l-7.8,0.2l0,37.2l0,0z" class="st4"/>
+  <path id="svg_91" d="m3806.3,4160c-0.7,-1.5 -2.1,-2.3 -4.8,-1.9c-2.8,0.3 -7.7,0.2 -7.7,0.2l0,-10.2l6.3,-4.1l0,-6c-2.6,-0.2 -4.7,-1.3 -6.3,-3.4l0,-7.4c0,0 1.6,-4.5 5.4,-0.8l0,5.3c0,2.4 1.5,3.8 3.9,4.7c2.3,0.6 3.8,-0.3 4.1,-3.3l3.7,0l2.5,0l-7.1,26.9z" class="st4"/>
+  <path id="svg_92" d="m3814.3,4135.4l-3.4,-2.3c1.1,-3.7 1,-6.6 -1.4,-8.2l16.4,0l0,3.2l507.8,-3l0,4.4l-519.4,5.9z" class="st4"/>
+  <polygon id="svg_93" points="3825.9,4119.9 4333.7,4119.9 4333.7,4125.1 3825.9,4128.1 " class="st5"/>
+  <polygon id="svg_94" points="3845,4194.8 3847.9,4194.8 3847.9,4186.8 3864.5,4186.8 3864.5,4171.9 3850.5,4172.5 3850.4,4174.7   3858.2,4174.7 3858.2,4178.1 3845,4178.3 3845,4171.9 3842.6,4171.9 3842.6,4192.8 3845.1,4192.8 " class="st4"/>
+  <polygon id="svg_95" points="3845.4,4153 3845.4,4162.8 3864.5,4162.5 3864.5,4166 3854.2,4166 3852.4,4168.4 3852.4,4169.5   3855.3,4169.5 3856.3,4167.3 3858.8,4167.3 3860.4,4169.5 3864.5,4169.5 3866.6,4169.5 3866.6,4154.7 3854.6,4154.7 3854.6,4153 " class="st4"/>
+  <rect id="svg_96" height="4.1" width="439" class="st4" y="4161.3" x="3866.6"/>
+  <polyline id="svg_97" points="3870.8,4189.8 3872.4,4189.8 3872.4,4154.3 3870.8,4154.3 " class="st4"/>
+  <polyline id="svg_98" points="3875,4189.8 3876.7,4189.8 3876.7,4154.3 3875,4154.3 " class="st4"/>
+  <polyline id="svg_99" points="3879.2,4189.8 3880.9,4189.8 3880.9,4154.3 3879.2,4154.3 " class="st4"/>
+  <polyline id="svg_100" points="3883.5,4189.8 3885.1,4189.8 3885.1,4154.3 3883.5,4154.3 " class="st4"/>
+  <polyline id="svg_101" points="3887.7,4189.8 3889.3,4189.8 3889.3,4154.3 3887.7,4154.3 " class="st4"/>
+  <polyline id="svg_102" points="3891.9,4189.8 3893.5,4189.8 3893.5,4154.3 3891.9,4154.3 " class="st4"/>
+  <polyline id="svg_103" points="3896.1,4189.8 3897.8,4189.8 3897.8,4154.3 3896.1,4154.3 " class="st4"/>
+  <polyline id="svg_104" points="3900.3,4189.8 3902,4189.8 3902,4154.3 3900.3,4154.3 " class="st4"/>
+  <polyline id="svg_105" points="3904.6,4189.8 3906.2,4189.8 3906.2,4154.3 3904.6,4154.3 " class="st4"/>
+  <polyline id="svg_106" points="3908.8,4189.8 3910.4,4189.8 3910.4,4154.3 3908.8,4154.3 " class="st4"/>
+  <polyline id="svg_107" points="3913,4189.8 3914.6,4189.8 3914.6,4154.3 3913,4154.3 " class="st4"/>
+  <polyline id="svg_108" points="3917.2,4189.8 3918.9,4189.8 3918.9,4154.3 3917.2,4154.3 " class="st4"/>
+  <polyline id="svg_109" points="3921.4,4189.8 3923.1,4189.8 3923.1,4154.3 3921.4,4154.3 " class="st4"/>
+  <polyline id="svg_110" points="3925.7,4189.8 3927.3,4189.8 3927.3,4154.3 3925.7,4154.3 " class="st4"/>
+  <polyline id="svg_111" points="3929.9,4189.8 3931.5,4189.8 3931.5,4154.3 3929.9,4154.3 " class="st4"/>
+  <polyline id="svg_112" points="3934.1,4189.8 3935.7,4189.8 3935.7,4154.3 3934.1,4154.3 " class="st4"/>
+  <polyline id="svg_113" points="3938.3,4189.8 3940,4189.8 3940,4154.3 3938.3,4154.3 " class="st4"/>
+  <polyline id="svg_114" points="3942.5,4189.8 3944.2,4189.8 3944.2,4154.3 3942.5,4154.3 " class="st4"/>
+  <polyline id="svg_115" points="3946.8,4189.8 3948.4,4189.8 3948.4,4154.3 3946.8,4154.3 " class="st4"/>
+  <polyline id="svg_116" points="3951,4189.8 3952.6,4189.8 3952.6,4154.3 3951,4154.3 " class="st4"/>
+  <polyline id="svg_117" points="3955.2,4189.8 3956.8,4189.8 3956.8,4154.3 3955.2,4154.3 " class="st4"/>
+  <polyline id="svg_118" points="3959.4,4189.8 3961.1,4189.8 3961.1,4154.3 3959.4,4154.3 " class="st4"/>
+  <polyline id="svg_119" points="3963.6,4189.8 3965.3,4189.8 3965.3,4154.3 3963.6,4154.3 " class="st4"/>
+  <polyline id="svg_120" points="3967.9,4189.8 3969.5,4189.8 3969.5,4154.3 3967.9,4154.3 " class="st4"/>
+  <polyline id="svg_121" points="3972.1,4189.8 3973.7,4189.8 3973.7,4154.3 3972.1,4154.3 " class="st4"/>
+  <polyline id="svg_122" points="3976.3,4189.8 3978,4189.8 3978,4154.3 3976.3,4154.3 " class="st4"/>
+  <polyline id="svg_123" points="3980.5,4189.8 3982.2,4189.8 3982.2,4154.3 3980.5,4154.3 " class="st4"/>
+  <polyline id="svg_124" points="3984.8,4189.8 3986.4,4189.8 3986.4,4154.3 3984.8,4154.3 " class="st4"/>
+  <polyline id="svg_125" points="3989,4189.8 3990.6,4189.8 3990.6,4154.3 3989,4154.3 " class="st4"/>
+  <polyline id="svg_126" points="3993.2,4189.8 3994.8,4189.8 3994.8,4154.3 3993.2,4154.3 " class="st4"/>
+  <polyline id="svg_127" points="3997.4,4189.8 3999.1,4189.8 3999.1,4154.3 3997.4,4154.3 " class="st4"/>
+  <polyline id="svg_128" points="4001.6,4189.8 4003.3,4189.8 4003.3,4154.3 4001.6,4154.3 " class="st4"/>
+  <polyline id="svg_129" points="4005.9,4189.8 4007.5,4189.8 4007.5,4154.3 4005.9,4154.3 " class="st4"/>
+  <polyline id="svg_130" points="4010.1,4189.8 4011.7,4189.8 4011.7,4154.3 4010.1,4154.3 " class="st4"/>
+  <polyline id="svg_131" points="4014.3,4189.8 4015.9,4189.8 4015.9,4154.3 4014.3,4154.3 " class="st4"/>
+  <polyline id="svg_132" points="4018.5,4189.8 4020.2,4189.8 4020.2,4154.3 4018.5,4154.3 " class="st4"/>
+  <polyline id="svg_133" points="4022.7,4189.8 4024.4,4189.8 4024.4,4154.3 4022.7,4154.3 " class="st4"/>
+  <polyline id="svg_134" points="4027,4189.8 4028.6,4189.8 4028.6,4154.3 4027,4154.3 " class="st4"/>
+  <polyline id="svg_135" points="4031.2,4189.8 4032.8,4189.8 4032.8,4154.3 4031.2,4154.3 " class="st4"/>
+  <polyline id="svg_136" points="4035.4,4189.8 4037,4189.8 4037,4154.3 4035.4,4154.3 " class="st4"/>
+  <polyline id="svg_137" points="4039.6,4189.8 4041.3,4189.8 4041.3,4154.3 4039.6,4154.3 " class="st4"/>
+  <polyline id="svg_138" points="4043.8,4189.8 4045.5,4189.8 4045.5,4154.3 4043.8,4154.3 " class="st4"/>
+  <polyline id="svg_139" points="4048.1,4189.8 4049.7,4189.8 4049.7,4154.3 4048.1,4154.3 " class="st4"/>
+  <polyline id="svg_140" points="4052.3,4189.8 4053.9,4189.8 4053.9,4154.3 4052.3,4154.3 " class="st4"/>
+  <polyline id="svg_141" points="4056.5,4189.8 4058.1,4189.8 4058.1,4154.3 4056.5,4154.3 " class="st4"/>
+  <polyline id="svg_142" points="4060.7,4189.8 4062.4,4189.8 4062.4,4154.3 4060.7,4154.3 " class="st4"/>
+  <polyline id="svg_143" points="4064.9,4189.8 4066.6,4189.8 4066.6,4154.3 4064.9,4154.3 " class="st4"/>
+  <polyline id="svg_144" points="4069.2,4189.8 4070.8,4189.8 4070.8,4154.3 4069.2,4154.3 " class="st4"/>
+  <polyline id="svg_145" points="4073.4,4189.8 4075,4189.8 4075,4154.3 4073.4,4154.3 " class="st4"/>
+  <polyline id="svg_146" points="4077.6,4189.8 4079.2,4189.8 4079.2,4154.3 4077.6,4154.3 " class="st4"/>
+  <polyline id="svg_147" points="4081.8,4189.8 4083.5,4189.8 4083.5,4154.3 4081.8,4154.3 " class="st4"/>
+  <polyline id="svg_148" points="4086,4189.8 4087.7,4189.8 4087.7,4154.3 4086,4154.3 " class="st4"/>
+  <polyline id="svg_149" points="4090.3,4189.8 4091.9,4189.8 4091.9,4154.3 4090.3,4154.3 " class="st4"/>
+  <polyline id="svg_150" points="4094.5,4189.8 4096.1,4189.8 4096.1,4154.3 4094.5,4154.3 " class="st4"/>
+  <polyline id="svg_151" points="4098.7,4189.8 4100.3,4189.8 4100.3,4154.3 4098.7,4154.3 " class="st4"/>
+  <polyline id="svg_152" points="4102.9,4189.8 4104.6,4189.8 4104.6,4154.3 4102.9,4154.3 " class="st4"/>
+  <polyline id="svg_153" points="4107.1,4189.8 4108.8,4189.8 4108.8,4154.3 4107.1,4154.3 " class="st4"/>
+  <polyline id="svg_154" points="4111.4,4189.8 4113,4189.8 4113,4154.3 4111.4,4154.3 " class="st4"/>
+  <polyline id="svg_155" points="4115.6,4189.8 4117.2,4189.8 4117.2,4154.3 4115.6,4154.3 " class="st4"/>
+  <polyline id="svg_156" points="4119.8,4189.8 4121.5,4189.8 4121.5,4154.3 4119.8,4154.3 " class="st4"/>
+  <polyline id="svg_157" points="4124,4189.8 4125.7,4189.8 4125.7,4154.3 4124,4154.3 " class="st4"/>
+  <polyline id="svg_158" points="4128.3,4189.8 4129.9,4189.8 4129.9,4154.3 4128.3,4154.3 " class="st4"/>
+  <polyline id="svg_159" points="4132.5,4189.8 4134.1,4189.8 4134.1,4154.3 4132.5,4154.3 " class="st4"/>
+  <polyline id="svg_160" points="4136.7,4189.8 4138.3,4189.8 4138.3,4154.3 4136.7,4154.3 " class="st4"/>
+  <polyline id="svg_161" points="4140.9,4189.8 4142.6,4189.8 4142.6,4154.3 4140.9,4154.3 " class="st4"/>
+  <polyline id="svg_162" points="4145.1,4189.8 4146.8,4189.8 4146.8,4154.3 4145.1,4154.3 " class="st4"/>
+  <polyline id="svg_163" points="4149.4,4189.8 4151,4189.8 4151,4154.3 4149.4,4154.3 " class="st4"/>
+  <polyline id="svg_164" points="4153.6,4189.8 4155.2,4189.8 4155.2,4154.3 4153.6,4154.3 " class="st4"/>
+  <polyline id="svg_165" points="4157.8,4189.8 4159.4,4189.8 4159.4,4154.3 4157.8,4154.3 " class="st4"/>
+  <polyline id="svg_166" points="4162,4189.8 4163.7,4189.8 4163.7,4154.3 4162,4154.3 " class="st4"/>
+  <polyline id="svg_167" points="4166.2,4189.8 4167.9,4189.8 4167.9,4154.3 4166.2,4154.3 " class="st4"/>
+  <polyline id="svg_168" points="4170.5,4189.8 4172.1,4189.8 4172.1,4154.3 4170.5,4154.3 " class="st4"/>
+  <polyline id="svg_169" points="4174.7,4189.8 4176.3,4189.8 4176.3,4154.3 4174.7,4154.3 " class="st4"/>
+  <polyline id="svg_170" points="4178.9,4189.8 4180.5,4189.8 4180.5,4154.3 4178.9,4154.3 " class="st4"/>
+  <polyline id="svg_171" points="4183.1,4189.8 4184.8,4189.8 4184.8,4154.3 4183.1,4154.3 " class="st4"/>
+  <polyline id="svg_172" points="4187.3,4189.8 4189,4189.8 4189,4154.3 4187.3,4154.3 " class="st4"/>
+  <polyline id="svg_173" points="4191.6,4189.8 4193.2,4189.8 4193.2,4154.3 4191.6,4154.3 " class="st4"/>
+  <polyline id="svg_174" points="4195.8,4189.8 4197.4,4189.8 4197.4,4154.3 4195.8,4154.3 " class="st4"/>
+  <polyline id="svg_175" points="4200,4189.8 4201.6,4189.8 4201.6,4154.3 4200,4154.3 " class="st4"/>
+  <polyline id="svg_176" points="4204.2,4189.8 4205.9,4189.8 4205.9,4154.3 4204.2,4154.3 " class="st4"/>
+  <polyline id="svg_177" points="4208.4,4189.8 4210.1,4189.8 4210.1,4154.3 4208.4,4154.3 " class="st4"/>
+  <polyline id="svg_178" points="4212.7,4189.8 4214.3,4189.8 4214.3,4154.3 4212.7,4154.3 " class="st4"/>
+  <polyline id="svg_179" points="4216.9,4189.8 4218.5,4189.8 4218.5,4154.3 4216.9,4154.3 " class="st4"/>
+  <polyline id="svg_180" points="4221.1,4189.8 4222.7,4189.8 4222.7,4154.3 4221.1,4154.3 " class="st4"/>
+  <polyline id="svg_181" points="4225.3,4189.8 4227,4189.8 4227,4154.3 4225.3,4154.3 " class="st4"/>
+  <polyline id="svg_182" points="4229.5,4189.8 4231.2,4189.8 4231.2,4154.3 4229.5,4154.3 " class="st4"/>
+  <polyline id="svg_183" points="4233.8,4189.8 4235.4,4189.8 4235.4,4154.3 4233.8,4154.3 " class="st4"/>
+  <polyline id="svg_184" points="4238,4189.8 4239.6,4189.8 4239.6,4154.3 4238,4154.3 " class="st4"/>
+  <polyline id="svg_185" points="4242.2,4189.8 4243.8,4189.8 4243.8,4154.3 4242.2,4154.3 " class="st4"/>
+  <polyline id="svg_186" points="4246.4,4189.8 4248.1,4189.8 4248.1,4154.3 4246.4,4154.3 " class="st4"/>
+  <polyline id="svg_187" points="4250.6,4189.8 4252.3,4189.8 4252.3,4154.3 4250.6,4154.3 " class="st4"/>
+  <polyline id="svg_188" points="4254.9,4189.8 4256.5,4189.8 4256.5,4154.3 4254.9,4154.3 " class="st4"/>
+  <polyline id="svg_189" points="4259.1,4189.8 4260.7,4189.8 4260.7,4154.3 4259.1,4154.3 " class="st4"/>
+  <polyline id="svg_190" points="4263.3,4189.8 4264.9,4189.8 4264.9,4154.3 4263.3,4154.3 " class="st4"/>
+  <polyline id="svg_191" points="4267.5,4189.8 4269.2,4189.8 4269.2,4154.3 4267.5,4154.3 " class="st4"/>
+  <polyline id="svg_192" points="4271.7,4189.8 4273.4,4189.8 4273.4,4154.3 4271.7,4154.3 " class="st4"/>
+  <polyline id="svg_193" points="4276,4189.8 4277.6,4189.8 4277.6,4154.3 4276,4154.3 " class="st4"/>
+  <polyline id="svg_194" points="4280.2,4189.8 4281.8,4189.8 4281.8,4154.3 4280.2,4154.3 " class="st4"/>
+  <polyline id="svg_195" points="4284.4,4189.8 4286,4189.8 4286,4154.3 4284.4,4154.3 " class="st4"/>
+  <polyline id="svg_196" points="4288.6,4189.8 4290.3,4189.8 4290.3,4154.3 4288.6,4154.3 " class="st4"/>
+  <polyline id="svg_197" points="4292.8,4189.8 4294.5,4189.8 4294.5,4154.3 4292.8,4154.3 " class="st4"/>
+  <polyline id="svg_198" points="4297.1,4189.8 4298.7,4189.8 4298.7,4154.3 4297.1,4154.3 " class="st4"/>
+  <polyline id="svg_199" points="4301.3,4189.8 4302.9,4189.8 4302.9,4154.3 4301.3,4154.3 " class="st4"/>
+  <path id="svg_200" d="m3906.3,4134.3l2,2.3l4,0l0,5.6l19.4,-0.1l0,-5.6l3,0c1.5,-0.7 2.7,-1.6 3.3,-2.5l-31.7,0.3z" class="st6"/>
+  <polygon id="svg_201" points="4012.7,4133.1 4012.7,4152.1 4084.4,4152.1 4084.4,4132.3 " class="st6"/>
+  <path id="svg_202" d="m3807,4189.9l0,42.7l526.5,0l0,-40.6l-9.9,0l-12.8,18.1c-0.9,1.2 -2.1,2 -3.8,1.9l-50.7,0.2l-13.8,-0.1l-16.8,11.1l-2.3,1.4l-38.7,0.1l-264.4,0l-20,-12.5l-64.9,-1.8l-12.1,-20.4l-16.3,-0.1l0,0z" class="st5"/>
+  <path id="svg_203" d="m3999.7,4224.9" class="st7"/>
+  <rect id="svg_204" height="3.9" width="3.7" class="st8" y="4136.1" x="4016.6"/>
+  <rect id="svg_205" height="3.9" width="3.7" class="st8" y="4144.3" x="4016.5"/>
+  <rect id="svg_206" height="3.9" width="3.7" class="st8" y="4136.2" x="4024.1"/>
+  <rect id="svg_207" height="3.9" width="3.7" class="st8" y="4144.4" x="4024"/>
+  <rect id="svg_208" height="3.9" width="3.7" class="st8" y="4136.2" x="4024.1"/>
+  <rect id="svg_209" height="3.9" width="3.7" class="st8" y="4144.4" x="4024"/>
+  <rect id="svg_210" height="3.9" width="3.7" class="st8" y="4136.3" x="4031.6"/>
+  <rect id="svg_211" height="3.9" width="3.7" class="st8" y="4144.4" x="4031.5"/>
+  <rect id="svg_212" height="3.9" width="3.7" class="st8" y="4136.3" x="4031.6"/>
+  <rect id="svg_213" height="3.9" width="3.7" class="st8" y="4144.4" x="4031.5"/>
+  <rect id="svg_214" height="3.9" width="3.7" class="st8" y="4136.4" x="4039.1"/>
+  <rect id="svg_215" height="3.9" width="3.7" class="st8" y="4144.5" x="4038.9"/>
+  <rect id="svg_216" height="3.9" width="3.7" class="st8" y="4136.4" x="4039.1"/>
+  <rect id="svg_217" height="3.9" width="3.7" class="st8" y="4144.5" x="4038.9"/>
+  <rect id="svg_218" height="3.9" width="3.7" class="st8" y="4136.4" x="4046.6"/>
+  <rect id="svg_219" height="3.9" width="3.7" class="st8" y="4144.6" x="4046.4"/>
+  <rect id="svg_220" height="3.9" width="3.7" class="st8" y="4136.4" x="4046.6"/>
+  <rect id="svg_221" height="3.9" width="3.7" class="st8" y="4144.6" x="4046.4"/>
+  <rect id="svg_222" height="3.9" width="3.7" class="st8" y="4136.5" x="4054"/>
+  <rect id="svg_223" height="3.9" width="3.7" class="st8" y="4144.6" x="4053.9"/>
+  <rect id="svg_224" height="3.9" width="3.7" class="st8" y="4136.5" x="4054"/>
+  <rect id="svg_225" height="3.9" width="3.7" class="st8" y="4144.6" x="4053.9"/>
+  <rect id="svg_226" height="3.9" width="3.7" class="st8" y="4136.6" x="4061.5"/>
+  <rect id="svg_227" height="3.9" width="3.7" class="st8" y="4144.7" x="4061.4"/>
+  <rect id="svg_228" height="3.9" width="3.7" class="st8" y="4136.6" x="4061.5"/>
+  <rect id="svg_229" height="3.9" width="3.7" class="st8" y="4144.7" x="4061.4"/>
+  <rect id="svg_230" height="3.9" width="3.7" class="st8" y="4136.6" x="4069"/>
+  <rect id="svg_231" height="3.9" width="3.7" class="st8" y="4144.8" x="4068.9"/>
+  <rect id="svg_232" height="3.9" width="3.7" class="st8" y="4136.6" x="4069"/>
+  <rect id="svg_233" height="3.9" width="3.7" class="st8" y="4144.8" x="4068.9"/>
+  <rect id="svg_234" height="3.9" width="3.7" class="st8" y="4136.7" x="4076.5"/>
+  <rect id="svg_235" height="3.9" width="3.7" class="st8" y="4144.8" x="4076.4"/>
+  <rect id="svg_236" height="2.4" width="2.3" class="st8" y="4135.3" x="3914.3"/>
+  <rect id="svg_237" height="2.4" width="2.3" class="st8" y="4135.3" x="3918.4"/>
+  <rect id="svg_238" height="2.4" width="2.3" class="st8" y="4135.3" x="3918.4"/>
+  <rect id="svg_239" height="2.4" width="2.3" class="st8" y="4135.3" x="3922.4"/>
+  <rect id="svg_240" height="2.4" width="2.3" class="st8" y="4135.3" x="3922.4"/>
+  <rect id="svg_241" height="2.4" width="2.3" class="st8" y="4135.3" x="3926.5"/>
+  <rect id="svg_242" height="2.4" width="2.3" class="st8" y="4135.4" x="3918.4"/>
+  <rect id="svg_243" height="2.4" width="2.3" class="st8" y="4135.4" x="3922.4"/>
+  <rect id="svg_244" height="2.4" width="2.3" class="st8" y="4135.4" x="3926.5"/>
+  <rect id="svg_245" height="2.4" width="2.3" class="st8" y="4138.8" x="3918.4"/>
+  <rect id="svg_246" height="2.4" width="2.3" class="st8" y="4138.8" x="3922.4"/>
+  <rect id="svg_247" height="2.4" width="2.3" class="st8" y="4138.8" x="3926.5"/>
+  <rect id="svg_248" height="2.4" width="2.3" class="st8" y="4138.7" x="3914.3"/>
+ </g>
+</svg>
