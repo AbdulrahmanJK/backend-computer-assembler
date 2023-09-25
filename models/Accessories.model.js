@@ -1,5 +1,6 @@
 const mongoose = require("mongoose")
 const accessoriesSchema = new mongoose.Schema({
+    linkModel:String,
     image: String,
     title: String,
     price: Number,
