@@ -6,6 +6,10 @@ const assemblingSchema = new mongoose.Schema({
         ref: "Accessories",
 
     },
+    user:{
+        type: mongoose.SchemaTypes.ObjectId,
+        ref: "User"
+    },
     gpu:{
         type: mongoose.SchemaTypes.ObjectId,
         ref: "Accessories"
