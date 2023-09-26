@@ -14,6 +14,7 @@ module.exports.assemblingControllers = {
         body: req.body.body,
         fan: req.body.fan,
         motherboard: req.body.motherboard,
+        user: req.body.user
       });
       return res.json(data);
     } catch (error) {
