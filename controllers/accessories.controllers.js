@@ -10,7 +10,8 @@ createAccessories: async(req,res)=>{
             price: req.body.price,
             attributes: req.body.attributes,
             socket: req.body.socket,
-            category: req.body.category
+            category: req.body.category,
+            linkModel:req.body.linkModel
         })
         return res.json(data)
     } catch (error) {
