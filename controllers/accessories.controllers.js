@@ -5,6 +5,7 @@ module.exports.accessoriesControllers = {
 createAccessories: async(req,res)=>{
     try {
         const data = await Accessories.create({
+            scetchImg:req.body.scetchImg,
             image: req.body.image,
             title: req.body.title,
             price: req.body.price,
