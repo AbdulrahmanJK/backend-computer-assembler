@@ -66,7 +66,8 @@ module.exports.userController = {
           _id: currentUser._id,
           username: currentUser.username,
           email: currentUser.email,
-          avatarURL: currentUser.avatarURL
+          avatarURL: currentUser.avatarURL,
+          role: currentUser.role
           // Другие поля пользователя, если они есть
         };
   
